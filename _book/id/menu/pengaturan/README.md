@@ -2,7 +2,7 @@
 icon: gear
 ---
 
-# Pengaturan
+# <i class="fa-regular fa-gear"></i> Pengaturan
 
 <div class="custom-card-container">
     <a href="./profil-pengguna.md" class="custom-card">

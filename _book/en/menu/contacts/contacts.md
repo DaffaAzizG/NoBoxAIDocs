@@ -2,7 +2,7 @@
 icon: address-book
 ---
 
-# Contacts
+# <i class="fa-regular fa-user-friends"></i> Contacts
 
 Contact is a feature within Nobox.Ai used to store extracted contact data and manage target promotion data.
 

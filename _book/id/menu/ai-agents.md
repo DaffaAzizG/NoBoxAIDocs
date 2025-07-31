@@ -2,7 +2,7 @@
 icon: robot
 ---
 
-# AI Agents
+# <i class="fa-regular fa-robot"></i> AI Agents
 
 AI Agent di NoBox.Ai adalah asisten virtual cerdas yang berfungsi sebagai garda terdepan untuk mengotomatisasi interaksi digital Anda. Secara otomatis, agen ini mampu menjawab pertanyaan pelanggan, mengumpulkan data prospek, dan beroperasi 24/7 tanpa henti di berbagai platform. Tujuannya adalah untuk meningkatkan efisiensi layanan, sekaligus memastikan setiap percakapan kompleks dapat dialihkan secara cerdas ke agen manusia saat diperlukan.
 

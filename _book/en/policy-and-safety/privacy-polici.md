@@ -2,7 +2,7 @@
 icon: lock-keyhole
 ---
 
-# Privacy Polici
+# <i class="fa-regular fa-user-secret"></i> Privacy Polici
 
 ## **NoBox Privacy Commitment**
 

@@ -2,7 +2,7 @@
 icon: address-book
 ---
 
-# Hubungi Kami
+# <i class="fa-regular fa-envelope"></i> Hubungi Kami
 
 ## Baru mengenal NoBox?
 

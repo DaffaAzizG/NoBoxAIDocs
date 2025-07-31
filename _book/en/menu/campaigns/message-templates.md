@@ -2,7 +2,7 @@
 icon: message-lines
 ---
 
-# Message Templates
+# <i class="fa-regular fa-file-alt"></i> Message Templates
 
 The message model is a feature on Nobox.Ai used to create promotional message models.
 

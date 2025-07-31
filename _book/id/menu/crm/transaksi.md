@@ -2,7 +2,7 @@
 icon: calculator
 ---
 
-# Transaksi
+# <i class="fa-regular fa-exchange-alt"></i> Transaksi
 
 Transaksi merupakan salah satu menu Nobox.Ai yang digunakan untuk mencatat transaksi terkait pembayaran dengan penawaran.
 

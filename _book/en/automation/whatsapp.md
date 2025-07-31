@@ -2,7 +2,7 @@
 icon: whatsapp
 ---
 
-# Whatsapp
+# <i class="fa-regular fa-comments"></i> Whatsapp
 
 WhatsApp Automation can efficiently automate follow-ups with your prospects and send messages to WhatsApp quickly and with high quality. It allows you to send automated messages that can be customized as needed and can connect with chatbots to effectively enhance interaction with potential customers.
 

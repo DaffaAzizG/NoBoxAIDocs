@@ -1,4 +1,4 @@
-# Scrape Google Maps
+# <i class="fa-regular fa-map-marked"></i> Scrape Google Maps
 
 &#x20;The Google Maps Extractor can efficiently extract business prospect data (your potential customers) from Google Maps with the best speed and quality of results. This software extracts various available data from Google Maps, including links, business names, addresses, phone numbers, websites, ratings, total views, opening hours, image links, latitude, longitude, plus code, and business fields. The data is automatically stored in NoBox.Ai. You can export the data in Excel (.xlsx, .csv) and JSON (.json) file formats.
 

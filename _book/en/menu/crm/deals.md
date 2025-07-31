@@ -2,7 +2,7 @@
 icon: handshake-simple
 ---
 
-# Deals
+# <i class="fa-regular fa-handshake"></i> Deals
 
 Deals is one of the menus in Nobox.Ai used for managing offers, making it easier for you to manage all information and activities related to sales progress.
 

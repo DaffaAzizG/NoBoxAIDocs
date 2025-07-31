@@ -2,7 +2,7 @@
 icon: clipboard-list
 ---
 
-# Task
+# <i class="fa-regular fa-tasks"></i> Task
 
 Tasks are one of the features in Nobox.Ai used for managing team or individual tasks. You can manage all activities, user tasks, or tasks assigned to others.
 

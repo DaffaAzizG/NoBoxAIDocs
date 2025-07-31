@@ -2,7 +2,7 @@
 icon: money-check-dollar-pen
 ---
 
-# Cara Bayar
+# <i class="fa-regular fa-credit-card"></i> Cara Bayar
 
 Metode Pembayaran merupakan salah satu menu pada NoBox yang digunakan untuk master data metode pembayaran.
 

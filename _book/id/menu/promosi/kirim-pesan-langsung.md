@@ -2,7 +2,7 @@
 icon: location-arrow
 ---
 
-# Kirim Pesan Langsung
+# <i class="fa-regular fa-paper-plane"></i> Kirim Pesan Langsung
 
 Kirim Pesan Langsung adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengirim pesan secara langsung ke salah satu kontak atau beberapa kontak.&#x20;
 

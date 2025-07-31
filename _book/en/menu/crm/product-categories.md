@@ -2,7 +2,7 @@
 icon: layer-group
 ---
 
-# Product Categories
+# <i class="fa-regular fa-th-list"></i> Product Categories
 
 The Product Category is one of the menus on Nobox.Ai used for grouping products.
 

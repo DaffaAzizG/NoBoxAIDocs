@@ -2,7 +2,7 @@
 icon: telegram
 ---
 
-# Telegram
+# <i class="fa-regular fa-paper-plane"></i> Telegram
 
 Telegram Automation secara efisien dapat mengotomasi tindak lanjut calon pelanggan Anda dan mengirim pesan ke Telegram dengan cepat dan berkualitas tinggi. Memungkinkan Anda mengirimkan pesan otomatis yang dapat disesuaikan sesuai kebutuhan, dan dapat tersambung dengan chatbot untuk meningkatkan interaksi dengan calon pelanggan secara efektif.
 

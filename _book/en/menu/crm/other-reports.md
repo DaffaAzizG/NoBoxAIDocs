@@ -2,7 +2,7 @@
 icon: copy
 ---
 
-# Other Reports
+# <i class="fa-regular fa-file-alt"></i> Other Reports
 
 The "Other Reports" menu in Nobox.Ai is used to display achievement and activity reports.
 

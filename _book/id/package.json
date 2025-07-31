@@ -19,6 +19,7 @@
   "homepage": "https://github.com/DaffaAzizG/Id-GitBook#readme",
   "dependencies": {
     "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-styles-less": "^1.0.0",
     "honkit": "^6.0.3"
   }
 }

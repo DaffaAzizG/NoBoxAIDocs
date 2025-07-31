@@ -2,7 +2,7 @@
 icon: pan-frying
 ---
 
-# Tampilan NoBox AI
+# <i class="fa-regular fa-house"></i> Tampilan NoBox AI
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/KNauz2G7IGU" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -12,7 +12,7 @@ Pada website NoBox.Ai memiliki beberapa tampilan umum yaitu :
 
 Berisikan ringkasan informasi aktivitas secara real time dan dapat mempermudah Anda untuk mengambil keputusan
 
-<figure><img src="../.gitbook/assets/Dasbor Kirim Pesan (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dasbor Kirim Pesan (1).png" alt=""><figcaption></figcaption></figure>
 
 Dalam tampilan dasbor terdapat fitur umum yang punya fungsi masing-masing. Penjelasan dari fungsi tersebut adalah sebagai berikut :
 

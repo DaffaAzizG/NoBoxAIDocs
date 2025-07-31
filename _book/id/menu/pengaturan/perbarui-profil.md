@@ -2,7 +2,7 @@
 icon: address-card
 ---
 
-# Perbarui Profil
+# <i class="fa-regular fa-user-edit"></i> Perbarui Profil
 
 ## **Bagaimana Cara Memperbarui User Profile dan Company Details?**
 

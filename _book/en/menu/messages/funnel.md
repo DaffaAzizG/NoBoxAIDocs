@@ -2,7 +2,7 @@
 icon: filter
 ---
 
-# Funnel
+# <i class="fa-regular fa-reply"></i> Funnel
 
 Funnel is a feature in Nobox.Ai used to categorize stages in marketing and support processes.
 

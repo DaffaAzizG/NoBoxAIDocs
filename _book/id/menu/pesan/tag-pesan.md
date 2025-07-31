@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Tag Pesan
+# <i class="fa-regular fa-tags"></i> Tag Pesan
 
 Tag Pesan adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan data pesan Anda.
 

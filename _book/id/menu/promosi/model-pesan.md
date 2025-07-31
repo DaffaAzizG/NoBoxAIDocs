@@ -2,7 +2,7 @@
 icon: message-lines
 ---
 
-# Model Pesan
+# <i class="fa-regular fa-file-alt"></i> Model Pesan
 
 Model pesan adalah salah satu menu pada Nobox.Ai yang digunakan untuk membuat model pesan promosi.&#x20;
 

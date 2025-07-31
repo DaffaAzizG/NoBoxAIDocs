@@ -2,7 +2,7 @@
 icon: copy
 ---
 
-# Form Templates
+# <i class="fa-regular fa-file-signature"></i> Form Templates
 
 The Form Templates is a feature on NoBox.Ai used to create form models.
 

@@ -2,7 +2,7 @@
 icon: bullseye-arrow
 ---
 
-# Company Targets
+# <i class="fa-regular fa-bullseye"></i> Company Targets
 
 Company Target is a feature in Nobox.Ai used to set a marketing target for a company each month.
 

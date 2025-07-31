@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Dashboard Forms
+# <i class="fa-regular fa-clipboard-list"></i> Dashboard Forms
 
 Summary of activities related to form data that can assist you in decision-making.
 

@@ -2,7 +2,7 @@
 icon: file-chart-column
 ---
 
-# Report
+# <i class="fa-regular fa-chart-bar"></i> Report
 
 The "Laporan" is a feature on Nobox.Ai used to display reports of conversations conducted.
 

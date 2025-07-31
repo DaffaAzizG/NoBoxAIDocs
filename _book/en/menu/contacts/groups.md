@@ -2,7 +2,7 @@
 icon: users-rectangle
 ---
 
-# Groups
+# <i class="fa-regular fa-users-cog"></i> Groups
 
 A group is a feature in the Nobox.Ai menu used for group information such as the name and description of the associated account.
 

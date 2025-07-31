@@ -2,7 +2,7 @@
 icon: fa-regular fa-bullhorn
 ---
 
-# Promosi
+# <i class="fa-regular fa-bullhorn"></i> Promosi
 
 <div class="custom-card-container">
     <a href="./dasbor-promosi.md" class="custom-card">

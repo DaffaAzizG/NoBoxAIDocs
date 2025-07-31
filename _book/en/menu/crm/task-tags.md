@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Task Tags
+# <i class="fa-regular fa-tags"></i> Task Tags
 
 Task Tag is a feature in Nobox.Ai used to categorize your task data.
 

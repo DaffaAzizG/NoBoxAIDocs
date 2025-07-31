@@ -2,7 +2,7 @@
 icon: bullhorn
 ---
 
-# Campaigns
+# <i class="fa-regular fa-bullhorn"></i> Campaigns
 
 Promotion is one of the features in Nobox.Ai that allows for easy and efficient promotion to target audiences. It is integrated with various channels such as WhatsApp, Telegram, etc.
 

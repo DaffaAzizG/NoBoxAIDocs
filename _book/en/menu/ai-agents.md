@@ -2,7 +2,7 @@
 icon: robot
 ---
 
-# AI Agents
+# <i class="fa-regular fa-robot"></i> AI Agents
 
 AI Agent from NoBox.Ai is an intelligent virtual assistant designed to automate your digital interactions. This agent can automatically answer customer queries, gather prospect data, and operate 24/7 across various platforms. Its goal is to enhance service efficiency while smartly routing complex conversations to human agents when necessary.
 

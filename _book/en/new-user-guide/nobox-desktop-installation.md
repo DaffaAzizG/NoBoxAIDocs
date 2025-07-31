@@ -2,7 +2,7 @@
 icon: arrow-turn-down
 ---
 
-# NoBox Desktop Installation
+# <i class="fa-regular fa-star"></i> NoBox Desktop Installation
 
 ## **How to Install and Set Up NoBox Desktop**
 

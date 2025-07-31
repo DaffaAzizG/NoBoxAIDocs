@@ -2,7 +2,7 @@
 icon: layer-group
 ---
 
-# Kategori Produk
+# <i class="fa-regular fa-th-list"></i> Kategori Produk
 
 Kategori Produk adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan produk.
 

@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Dasbor Kontak
+# <i class="fa-regular fa-users"></i> Dasbor Kontak
 
 Dasbor Kontak adalah salah satu menu pada Nobox.Ai yang berisi ringkasan informasi aktivitas yang berhubungan dengan kontak dan dapat mempermudah Anda mengambil keputusan.
 

@@ -2,7 +2,7 @@
 icon: arrow-trend-up
 ---
 
-# Trend Reports
+# <i class="fa-regular fa-chart-line"></i> Trend Reports
 
 The Trend Report is a feature on Nobox.Ai used to display reports that analyze and describe trends in customer relationship management.
 

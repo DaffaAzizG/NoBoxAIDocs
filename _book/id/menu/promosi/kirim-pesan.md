@@ -2,7 +2,7 @@
 icon: comments
 ---
 
-# Kirim Pesan
+# <i class="fa-regular fa-paper-plane"></i> Kirim Pesan
 
 Kirim Pesan adalah salah satu menu pada Nobox.Ai yang digunakan untuk monitoring hasil kirim pesan dari semua data promosi. Jadi Anda dapat mengetahui hasil kirim pesan yang masih dalam antrian, proses, gagal dan sudah terkirim.
 

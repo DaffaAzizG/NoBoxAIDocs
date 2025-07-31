@@ -2,7 +2,7 @@
 icon: messages
 ---
 
-# Conversations
+# <i class="fa-regular fa-comment"></i> Conversations
 
 Conversation is one of the features on Nobox.Ai used for monitoring conversation data.
 

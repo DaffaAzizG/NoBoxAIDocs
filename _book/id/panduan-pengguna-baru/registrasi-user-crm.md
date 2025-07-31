@@ -2,7 +2,7 @@
 icon: arrow-right-to-bracket
 ---
 
-# Registrasi User CRM
+# <i class="fa-regular fa-ban"></i> Registrasi User CRM
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/0ectimbtruk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

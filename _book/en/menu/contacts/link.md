@@ -2,7 +2,7 @@
 icon: link
 ---
 
-# Link
+# <i class="fa-regular fa-link"></i> Link
 
 Link is a feature in Nobox.Ai designed to store contact accounts like WhatsApp numbers, Email, Telegram, etc.
 

@@ -2,7 +2,7 @@
 icon: clipboard-list
 ---
 
-# Tugas
+# <i class="fa-regular fa-tasks"></i> Tugas
 
 Tugas merupakan salah satu menu pada Nobox.Ai yang digunakan untuk melakukan manajemen tugas tim atau individu. Anda dapat mengelola seluruh aktivitas, tugas pengguna atau tugas yang ditunjukan untuk pengguna lain.
 

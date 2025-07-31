@@ -2,7 +2,7 @@
 icon: address-book
 ---
 
-# Contact Us
+# <i class="fa-regular fa-envelope"></i> Contact Us
 
 ## New to NoBox?
 

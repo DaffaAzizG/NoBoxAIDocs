@@ -2,7 +2,7 @@
 icon: envelope
 ---
 
-# Mail Queue
+# <i class="fa-regular fa-envelope"></i> Mail Queue
 
 Email Queue is a feature on Nobox.Ai used for monitoring email queues. This allows you to track messages that are pending, failed, or successfully sent.
 

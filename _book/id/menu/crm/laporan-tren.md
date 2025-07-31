@@ -2,13 +2,11 @@
 icon: arrow-trend-up
 ---
 
-# Laporan Tren
+# <i class="fa-regular fa-chart-line"></i> Laporan Tren
 
 Laporan Tren merupakan salah satu menu pada Nobox.Ai yang digunakan untuk menampilkan laporan yang menganalisis dan menggambarkan tren yang terjadi dalam pengelolaan hubungan dengan pelanggan.
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/MpRmL4CCpuI/" title="01. Instalasi NoBox Desktop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="742" height="418" src="https://www.youtube.com/embed/MpRmL4CCpuI" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figure><img src="../../.gitbook/assets/4. Laporan Tren.png" alt=""><figcaption></figcaption></figure>
 

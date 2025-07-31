@@ -2,7 +2,7 @@
 icon: address-book
 ---
 
-# Kontak
+# <i class="fa-regular fa-user-friends"></i> Kontak
 
 Kontak adalah salah satu menu pada Nobox.Ai yang digunakan untuk menampung data kontak hasil ekstraksi dan menangani data target promosi.
 

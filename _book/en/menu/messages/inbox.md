@@ -2,7 +2,7 @@
 icon: inbox
 ---
 
-# Inbox
+# <i class="fa-regular fa-inbox"></i> Inbox
 
 Inbox is one of the NoBox.Ai features used to manage all incoming messages from various channels such as WhatsApp, Telegram, Shopee, etc.
 

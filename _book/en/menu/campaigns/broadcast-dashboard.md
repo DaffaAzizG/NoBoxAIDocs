@@ -2,7 +2,7 @@
 icon: gauge
 ---
 
-# Broadcast Dashboard
+# <i class="fa-regular fa-paper-plane"></i> Broadcast Dashboard
 
 Summary of all messaging activities presented in a concise, graphical format with clickable elements to display detailed message data. This menu is also used to monitor the results of promotional message delivery.
 

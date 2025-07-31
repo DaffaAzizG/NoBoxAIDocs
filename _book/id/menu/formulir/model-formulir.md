@@ -2,7 +2,7 @@
 icon: copy
 ---
 
-# Model Formulir
+# <i class="fa-regular fa-file-signature"></i> Model Formulir
 
 Model Formulir merupakan salah satu menu pada NoBox.Ai yang digunakan untuk membuat model formulir.
 

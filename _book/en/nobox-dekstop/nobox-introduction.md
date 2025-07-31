@@ -2,7 +2,7 @@
 icon: hand-wave
 ---
 
-# NoBox Introduction
+# <i class="fa-regular fa-hand-wave"></i> NoBox Introduction
 
 ## **Overview of NoBox Desktop**
 

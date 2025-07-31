@@ -2,7 +2,7 @@
 icon: list
 ---
 
-# Lists
+# <i class="fa-regular fa-list"></i> Lists
 
 List is one of the menus in Nobox.Ai used to categorize contact data.
 

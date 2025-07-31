@@ -2,7 +2,7 @@
 icon: file-chart-column
 ---
 
-# Laporan Perbandingan
+# <i class="fa-regular fa-balance"></i> Laporan Perbandingan
 
 Laporan Perbandingan merupakan salah satu menu pada Nobox.Ai yang digunakan untuk menampilkan laporan perbandingan dari data CRM.
 

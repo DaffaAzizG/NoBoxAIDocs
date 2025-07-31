@@ -2,7 +2,7 @@
 icon: money-check-dollar-pen
 ---
 
-# Form Payments
+# <i class="fa-regular fa-credit-card"></i> Form Payments
 
 Payment Method is a menu option in NoBox used for managing master data of payment methods.
 

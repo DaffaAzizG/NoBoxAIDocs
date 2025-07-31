@@ -2,7 +2,7 @@
 icon: wpforms
 ---
 
-# Formulir
+# <i class="fa-regular fa-file-alt"></i> Formulir
 
 <div class="custom-card-container">
     <a href="./dasbor-formulir.md" class="custom-card">

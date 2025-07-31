@@ -2,7 +2,7 @@
 icon: box
 ---
 
-# CRM
+# <i class="fa-fa regular fa-users"></i> CRM
 
 <div class="custom-card-container">
     <a href="./produk.md" class="custom-card">

@@ -2,7 +2,7 @@
 icon: shop-lock
 ---
 
-# Compliance
+# <i class="fa-regular fa-check-circle"></i> Compliance
 
 ## **Compliance at NoBox**
 

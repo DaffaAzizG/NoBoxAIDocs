@@ -1,4 +1,4 @@
-# Scrape Google Maps
+# <i class="fa-regular fa-map-marked"></i> Scrape Google Maps
 
 Google Maps Extractor bisa mengekstrak data prospek bisnis (calon pelanggan Anda) dari Google Maps dengan kecepatan dan kualitas hasil yang terbaik. Software ini mengekstrak berbagai data yang tersedia dari Google Maps termasuk link, nama usaha, alamat, nomor telepon, website, rating, total views, jam buka, link gambar, latitude, longitude, plus code, dan bidang usaha. Data otomatis disimpan di NoBox.Ai. Anda dapat mengekspor data dalam format file Excel (.xlsx, .csv) dan JSON (.json).
 

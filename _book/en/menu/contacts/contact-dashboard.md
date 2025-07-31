@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Contact Dashboard
+# <i class="fa-regular fa-users"></i> Contact Dashboard
 
 The Contact Dashboard is one of the menus on Nobox.Ai that provides a summary of activity information related to contacts and helps you make decisions.
 

@@ -2,7 +2,7 @@
 icon: address-book
 ---
 
-# Kontak
+# <i class="fa-regular fa-address-book"></i> Kontak
 
 <div class="custom-card-container">
     <a href="./dasbor-kontak.md" class="custom-card">

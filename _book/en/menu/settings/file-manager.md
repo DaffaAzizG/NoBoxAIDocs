@@ -2,7 +2,7 @@
 icon: folder-gear
 ---
 
-# File Manager
+# <i class="fa-regular fa-folder-open"></i> File Manager
 
 
 

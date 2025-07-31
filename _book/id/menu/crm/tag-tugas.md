@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Tag Tugas
+# <i class="fa-regular fa-tags"></i> Tag Tugas
 
 Tag Tugas adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan data tugas Anda.
 

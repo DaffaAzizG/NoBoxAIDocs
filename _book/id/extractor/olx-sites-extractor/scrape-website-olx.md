@@ -1,4 +1,4 @@
-# Scrape Website OLX
+# <i class="fa-regular fa-store-alt"></i> Scrape Website OLX
 
 OLX IndonesiaX adalah aplikasi desktop dengan dukungan browser chrome yang memungkinkan data prospek bisnis (calon pelanggan Anda) dari satu situs jaringan dengan kecepatan dan kualitas hasil yang terbaik dari berbagai negara. Software ini mengekstrak berbagai data yang tersedia dari OLX termasuk link, nama usaha, alamat, nomor telepon, website, rating, total views, jam buka, link gambar, latitude, longitude, plus code, dan bidang usaha. Data otomatis disimpan di NoBox.Ai. Anda juga dapat mengekspor data dalam format file Excel (.xlsx, .csv) dan JSON (.json).
 

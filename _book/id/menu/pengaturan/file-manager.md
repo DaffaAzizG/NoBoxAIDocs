@@ -2,9 +2,7 @@
 icon: folder-gear
 ---
 
-# File Manager
-
-
+# <i class="fa-regular fa-folder-open"></i> File Manager
 
 File Manager ini berfungsi sebagai pusat penyimpanan terpusat di Nobox.Ai untuk mengelola semua aset digital, di mana pengguna dapat dengan mudah mencari, menyaring, dan menghapus file. Tujuan utamanya adalah untuk menjaga semua file tetap terorganisir dan mudah diakses agar dapat digunakan kembali secara efisien pada berbagai fitur di dalam platform.
 

@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Dasbor Promosi
+# <i class="fa-regular fa-bullhorn"></i> Dasbor Promosi
 
 Ringkasan informasi aktivitas yang berhubungan dengan promosi dan dapat mempermudah Anda untuk mengambil keputusan.
 

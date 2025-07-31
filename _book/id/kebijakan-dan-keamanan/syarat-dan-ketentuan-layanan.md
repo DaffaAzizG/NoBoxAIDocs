@@ -2,7 +2,7 @@
 icon: hand-holding-box
 ---
 
-# Syarat dan Ketentuan Layanan
+# <i class="fa-regular fa-file-contract"></i> Syarat dan Ketentuan Layanan
 
 ## **Bagian dari Perjanjian ini**
 

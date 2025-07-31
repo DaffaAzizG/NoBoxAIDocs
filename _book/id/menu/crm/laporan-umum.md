@@ -2,7 +2,7 @@
 icon: file-chart-pie
 ---
 
-# Laporan Umum
+# <i class="fa-regular fa-chart-pie"></i>Laporan Umum
 
 Laporan Umum merupakan salah satu menu pada Nobox.Ai yang digunakan untuk menampilkan laporan secara umum terkait informasi dari menu CRM.
 

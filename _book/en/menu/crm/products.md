@@ -2,7 +2,7 @@
 icon: box-archive
 ---
 
-# Products
+# <i class="fa-regular fa-box"></i> Products
 
 The product is one of the menus on NoBox.Ai used for managing the data of products being sold.
 

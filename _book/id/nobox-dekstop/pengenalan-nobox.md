@@ -2,7 +2,7 @@
 icon: hand-wave
 ---
 
-# Pengenalan NoBox
+# <i class="fa-regular fa-hand-wave"></i> Pengenalan NoBox
 
 ## **Gambaran Umum NoBox Desktop**&#x20;
 

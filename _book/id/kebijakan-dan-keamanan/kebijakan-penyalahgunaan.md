@@ -2,7 +2,7 @@
 icon: face-nauseated
 ---
 
-# Kebijakan Penyalahgunaan
+# <i class="fa-regular fa-exclamation-triangle"></i> Kebijakan Penyalahgunaan
 
 ## Kebijakan Penyalahgunaan
 

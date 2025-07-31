@@ -2,7 +2,7 @@
 icon: arrows-rotate-reverse
 ---
 
-# Change Password
+# <i class="fa-regular fa-key"></i> Change Password
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/id891LhNuTU'/" title="01. Instalasi NoBox Desktop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

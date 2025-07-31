@@ -2,7 +2,7 @@
 icon: face-weary
 ---
 
-# Keluhan Hak Kekayaan Intelektual (IPR)
+# <i class="fa-regular fa-copyright"></i> Keluhan Hak Kekayaan Intelektual (IPR)
 
 ## **Prosedur Pengaduan**
 

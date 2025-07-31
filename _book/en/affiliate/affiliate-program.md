@@ -2,7 +2,7 @@
 icon: objects-column
 ---
 
-# Affiliate Program
+# <i class="fa-regular fa-network-wired"></i> Affiliate Program
 
 Method for Earning Commission by Promoting CRM Products
 

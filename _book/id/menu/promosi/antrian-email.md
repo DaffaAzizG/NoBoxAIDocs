@@ -2,7 +2,7 @@
 icon: envelope
 ---
 
-# Antrian Email
+# <i class="fa-regular fa-envelope"></i> Antrian Email
 
 Antrian Email adalah salah satu menu pada Nobox.Ai yang digunakan untuk monitoring antrian email. Jadi Anda dapat mengetahui hasil kirim pesan yang masih dalam antrian, gagal dan sudah terkirim.
 

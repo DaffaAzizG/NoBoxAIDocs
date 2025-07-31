@@ -2,7 +2,7 @@
 icon: shield
 ---
 
-# Security
+# <i class="fa-regular fa-shield-alt"></i> Security
 
 ## Security
 

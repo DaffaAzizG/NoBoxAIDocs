@@ -2,7 +2,7 @@
 icon: file-invoice-dollar
 ---
 
-# Subscription
+# <i class="fa-regular fa-credit-card"></i> Subscription
 
 Berlangganan adalah ringkasan informasi riwayat pesanan produk dan total kuota yang digunakan.
 

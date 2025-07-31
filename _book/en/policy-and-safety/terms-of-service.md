@@ -2,7 +2,7 @@
 icon: hand-holding-box
 ---
 
-# Terms Of Service
+# <i class="fa-regular fa-file-contract"></i> Terms Of Service
 
 ## **Section of this Agreement**
 

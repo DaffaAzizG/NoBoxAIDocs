@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Tag Produk
+# <i class="fa-regular fa-tags"></i> Tag Produk
 
 Tag Produk adalah salah satu menu pada NoBox.Ai yang digunakan untuk mengelompokkan data produk Anda.
 

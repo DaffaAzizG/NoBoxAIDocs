@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Product Tags
+# <i class="fa-regular fa-tags"></i> Product Tags
 
 The Product Tag is a feature in NoBox.Ai used to categorize your product data.
 

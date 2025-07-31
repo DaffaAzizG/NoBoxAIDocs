@@ -2,7 +2,7 @@
 icon: list
 ---
 
-# List
+# <i class="fa-regular fa-list"></i> List
 
 List adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan data kontak.
 

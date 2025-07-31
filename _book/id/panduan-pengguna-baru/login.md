@@ -2,7 +2,7 @@
 icon: square-user
 ---
 
-# Login
+# <i class="fa-regular fa-home"></i> Login
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/Cg5MjWd1uUI?si=EqkjcOmg-EqEvQNk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

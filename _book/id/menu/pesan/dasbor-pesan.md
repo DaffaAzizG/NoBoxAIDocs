@@ -2,13 +2,13 @@
 icon: gauge-min
 ---
 
-# Dasbor Pesan
+# <i class="fa-regular fa-comments"></i> Dasbor Pesan
 
 Menampilkan semua informasi terkait dengan menu Pesan yang dirangkum secara lebih singkat dan beberapa grafik informasi tentang agen.
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/noHtYBEBoSM" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figure><img src="../../.gitbook/assets/Dasbor Pesan (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dasbor Pesan.png" alt=""><figcaption></figcaption></figure>
 
 Pada tampilan tersebut, terdapat beberapa bagian yang mempunyai fungsi masing-masing. Penjelasan dari fungsi tersebut adalah sebagai berikut :
 

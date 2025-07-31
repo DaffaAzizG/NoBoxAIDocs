@@ -2,7 +2,7 @@
 icon: file-chart-column
 ---
 
-# Comparison Reports
+# <i class="fa-regular fa-balance"></i> Comparison Reports
 
 The Comparison Report is one of the features in Nobox.Ai used to display comparison reports from CRM data.
 

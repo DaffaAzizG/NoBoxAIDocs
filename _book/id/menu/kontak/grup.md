@@ -2,7 +2,7 @@
 icon: users-rectangle
 ---
 
-# Grup
+# <i class="fa-regular fa-users-cog"></i> Grup
 
 Grup adalah salah satu menu pada Nobox.Ai yang digunakan untuk informasi grup seperti Nama, Deskripsi dari akun yang terkait.
 

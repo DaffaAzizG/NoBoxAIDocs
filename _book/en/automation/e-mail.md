@@ -2,7 +2,7 @@
 icon: square-envelope
 ---
 
-# E-Mail
+# <i class="fa-regular fa-envelope"></i> E-Mail
 
 Email Automation allows businesses to automatically send emails to customers or prospects based on certain rules or triggers. This system enables the delivery of relevant and timely messages without the need for manual intervention, thus enhancing the efficiency and effectiveness of your business communications.
 

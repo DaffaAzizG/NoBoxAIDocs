@@ -1,4 +1,4 @@
-# Shopee
+# <i class="fa-regular fa-shopping-cart"></i> Shopee
 
 Shopee Automation secara efisien dapat mengotomasi tindak lanjut calon pelanggan Anda dan mengirim pesan ke Shopee dengan cepat dan berkualitas tinggi. Memungkinkan Anda mengirimkan pesan otomatis yang dapat disesuaikan sesuai kebutuhan, dan dapat tersambung dengan chatbot untuk meningkatkan interaksi dengan calon pelanggan secara efektif.
 

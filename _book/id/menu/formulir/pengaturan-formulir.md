@@ -2,7 +2,7 @@
 icon: gear
 ---
 
-# Pengaturan Formulir
+# <i class="fa-regular fa-cog"></i> Pengaturan Formulir
 
 Pengaturan formulir merupakan salah satu menu pada NoBox yang berisi pengaturan format menu model formulir.
 

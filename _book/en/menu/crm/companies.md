@@ -2,7 +2,7 @@
 icon: building-memo
 ---
 
-# Companies
+# <i class="fa-regular fa-building"></i> Companies
 
 The "Company" feature in CRM NoBox.Ai is used for managing information and activities related to a customer's company or business.
 

@@ -2,7 +2,7 @@
 icon: person
 ---
 
-# GDPR Compliance
+# <i class="fa-regular fa-shield-check"></i> GDPR Compliance
 
 ## **GDPR - What NoBox is Doing About It**
 

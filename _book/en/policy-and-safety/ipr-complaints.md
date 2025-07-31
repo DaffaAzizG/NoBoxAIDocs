@@ -2,7 +2,7 @@
 icon: face-weary
 ---
 
-# IPR Complaints
+# <i class="fa-regular fa-copyright"></i> IPR Complaints
 
 ## **Complaint Procedure**
 

@@ -2,7 +2,7 @@
 icon: messages
 ---
 
-# Percakapan
+# <i class="fa-regular fa-comment"></i> Percakapan
 
 Percakapan adalah salah satu menu pada Nobox.Ai yang digunakan untuk monitoring data percakapan.
 

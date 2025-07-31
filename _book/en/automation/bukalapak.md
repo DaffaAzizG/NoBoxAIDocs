@@ -1,4 +1,4 @@
-# Bukalapak
+# <i class="fa-regular fa-store"></i> Bukalapak
 
 Bukalapak Automation efficiently automates follow-ups for your potential customers and sends messages to Bukalapak with the best speed and quality. This software assists your business by automatically sending messages to your potential customers and can deliver various types of messages tailored to your business needs.
 

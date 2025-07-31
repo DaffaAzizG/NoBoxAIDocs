@@ -2,7 +2,7 @@
 icon: inbox
 ---
 
-# Kotak Masuk
+# <i class="fa-regular fa-inbox"></i> Kotak Masuk
 
 Kotak Masuk adalah salah satu menu NoBox.Ai yang digunakan untuk melayani semua pesan yang masuk dari beberapa channel seperti WhatsApp, Telegram, Shopee dll.
 

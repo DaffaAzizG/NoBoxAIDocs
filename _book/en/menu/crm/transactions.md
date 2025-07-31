@@ -2,7 +2,7 @@
 icon: calculator
 ---
 
-# Transactions
+# <i class="fa-regular fa-exchange-alt"></i> Transactions
 
 Transactions are a feature in Nobox.Ai used to record payments related to deals.
 

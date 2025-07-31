@@ -2,7 +2,7 @@
 icon: bullhorn
 ---
 
-# Promosi
+# <i class="fa-regular fa-bullhorn"></i> Promosi
 
 Promosi adalah salah satu menu pada Nobox.Ai untuk melakukan promosi dengan mudah dan efisien kepada target promosi dengan diintegrasikan ke berbagai channel seperti WhatsApp, Telegram dll.
 
@@ -24,7 +24,7 @@ Lengkapi isian yang diperlukan, sebagai contoh seperti berikut :
 | -------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | Nama                                   | Nama promosi                                                                                      | Promo Akhir Tahun 2024                                     |
 | Kanal                                  | Pilih channel yang akan dipakai                                                                   | WhatsApp                                                   |
-| Akun                                   | Pilih akun                                                                                        | s\_whatsapp tester                                         |
+| Akun                                   | Pilih akun                                                                                        | s_whatsapp tester                                          |
 | List                                   | Pilih list                                                                                        | Akhir Tahun                                                |
 | Group                                  | Pilih grup                                                                                        | -                                                          |
 | Tag                                    | Pilih tag                                                                                         | Promo Desember                                             |
@@ -47,16 +47,16 @@ Terdapat template data yang sudah disediakan oleh nobox untuk memudahkan Anda un
 
 <figure><img src="https://crm.nobox.ai/media/public/Knowladge%20Base%20New/Campaigns/template.png" alt=""><figcaption></figcaption></figure>
 
-* **Template** digunakan untuk pilih pesan template yang akan digunakan.&#x20;
-* **User** digunakan untuk menampilkan nama pengguna.
-* **Company** digunakan untuk memudahkan Anda menampilkan data perusahaan Anda seperti name, email, alamat dll.
-* **Contact** digunakan untuk memudahkan Anda menampilkan data kontak seperti nama, telepon, email dll.
-* **Data** untuk mengambil data yang dihubungkan dari berkas sumber data.
-* **Random** digunakan untuk menampilkan karakter huruf secara acak atau tidak tentu.
-* **Spinner** digunakan untuk kirim teks yang sudah ditentukan secara acak
-* **Synonym** digunakan untuk memudahkan anda membuat variasi teks yang mempunyai makna yang sama.
-* **Tracking** digunakan untuk kirim tautan untuk melacak bawah tautan tersebut sudah dibaca.
-* **Split** digunakan untuk memisahkan balon pesan yang akan dikirim.
+- **Template** digunakan untuk pilih pesan template yang akan digunakan.&#x20;
+- **User** digunakan untuk menampilkan nama pengguna.
+- **Company** digunakan untuk memudahkan Anda menampilkan data perusahaan Anda seperti name, email, alamat dll.
+- **Contact** digunakan untuk memudahkan Anda menampilkan data kontak seperti nama, telepon, email dll.
+- **Data** untuk mengambil data yang dihubungkan dari berkas sumber data.
+- **Random** digunakan untuk menampilkan karakter huruf secara acak atau tidak tentu.
+- **Spinner** digunakan untuk kirim teks yang sudah ditentukan secara acak
+- **Synonym** digunakan untuk memudahkan anda membuat variasi teks yang mempunyai makna yang sama.
+- **Tracking** digunakan untuk kirim tautan untuk melacak bawah tautan tersebut sudah dibaca.
+- **Split** digunakan untuk memisahkan balon pesan yang akan dikirim.
 
 ## **Tes Kirim Pesan**
 
@@ -83,8 +83,6 @@ Saat memproses data promosi, Anda bisa **\[Buat Pesan]** dahulu lalu klik **\[Pr
 <figure><img src="https://crm.nobox.ai/media/public/Knowlegde%20Base%20Indo%20Version/Promosi/Promosi/6.%20Proses%20Promosi.png" alt=""><figcaption></figcaption></figure>
 
 Untuk memonitoring pengiriman promosi Anda dapat membuka tab **\[Kirim Pesan]**.
-
-
 
 Anda juga dapat lihat hasil promosi di menu **\[Kotak Masuk]**, sehingga Anda dapat langsung monitoring hasil promosi dan balas chat langsung dengan target promosi Anda.&#x20;
 
@@ -134,7 +132,7 @@ Cara menggunakan short link sebagai berikut :
 
 ## **Cara Menggunakan Sumber Data**
 
-sumber Data digunakan untuk tambahan data pada kontak berupa file excel. Cara menggunakan sumber data sebagai berikut  :
+sumber Data digunakan untuk tambahan data pada kontak berupa file excel. Cara menggunakan sumber data sebagai berikut :
 
 1\. Upload file excel pada tab **\[Sumber Data]** pastikan pada file excel tersebut terdapat data kolom yang isinya sama dengan data **external id** link.
 
@@ -180,6 +178,6 @@ Untuk mengedit suatu data promosi, silahkan pilih terlebih dahulu data mana yang
 
 Untuk menghapus suatu data promosi adalah dengan pilih data mana yang akan dihapus, kemudian klik **\[Hapus]**, maka akan tampil dialog konfirmasi apakah Anda ingin menghapus data. Jika ya, klik **\[Ya]** jika tidak maka klik **\[Tidak]**.
 
-***
+---
 
 Jika ada masalah atau kesulitan terkait Nobox.Ai, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)

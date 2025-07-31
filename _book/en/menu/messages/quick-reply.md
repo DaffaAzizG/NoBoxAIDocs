@@ -2,7 +2,7 @@
 icon: messages
 ---
 
-# Quick Reply
+# <i class="fa-regular fa-reply"></i> Quick Reply
 
 Quick Reply is a feature on Nobox.Ai used as a message template to reply to messages more quickly, including text or media such as images, GIFs, and videos.
 

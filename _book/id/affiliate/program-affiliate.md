@@ -1,6 +1,6 @@
 
 
-# Program Affiliate
+# <i class="fa-regular fa-network-wired"></i> Program Affiliate
 
 Metode untuk mendapatkan komisi dengan cara mempromosikan produk crm. Setiap penjualan yang terjadi melalui link affiliate Anda, maka Anda berhak mendapatkan komisi penjualan sebesar 30% dari setiap produk yang dijual. Komisi penjualan ini akan otomatis tercatat pada sistem Affiliasi Anda.
 

@@ -2,7 +2,7 @@
 icon: filter
 ---
 
-# Funnel
+# <i class="fa-regular fa-reply"></i> Funnel
 
 Funnel adalah salah menu pada Nobox.Ai yang digunakan untuk mengkategorikan tahapan proses pemasaran dan support.
 

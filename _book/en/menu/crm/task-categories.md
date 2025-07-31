@@ -2,7 +2,7 @@
 icon: layer-group
 ---
 
-# Task Categories
+# <i class="fa-regular fa-th-list"></i> Task Categories
 
 The Task Category is a menu on Nobox.Ai used to classify task data.
 

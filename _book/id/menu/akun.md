@@ -2,7 +2,7 @@
 icon: circle-user
 ---
 
-# Akun
+# <i class="fa-regular fa-user"></i> Akun
 
 Akun adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelola data-data akun dan tool Nobox Desktop.
 

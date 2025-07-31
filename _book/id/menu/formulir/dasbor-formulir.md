@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Dasbor Formulir
+# <i class="fa-regular fa-clipboard-list"></i> Dasbor Formulir
 
 Ringkasan informasi aktivitas yang berhubungan dengan data form dan dapat mempermudah Anda untuk mengambil keputusan.&#x20;
 

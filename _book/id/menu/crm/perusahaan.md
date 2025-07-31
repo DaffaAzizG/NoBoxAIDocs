@@ -2,7 +2,7 @@
 icon: building-memo
 ---
 
-# Perusahaan
+# <i class="fa-regular fa-building"></i> Perusahaan
 
 Perusahaan adalah salah satu menu pada CRM NoBox.Ai yang digunakan untuk manajemen informasi dan aktivitas yang terkait dengan perusahaan atau bisnis pelanggan.
 

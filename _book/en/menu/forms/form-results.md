@@ -2,7 +2,7 @@
 icon: square-poll-horizontal
 ---
 
-# Form Results
+# <i class="fa-regular fa-check-square"></i> Form Results
 
 The "Form Results" menu in NoBox is used for managing form data results.
 

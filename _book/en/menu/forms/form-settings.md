@@ -2,7 +2,7 @@
 icon: gear
 ---
 
-# Form Settings
+# <i class="fa-regular fa-cog"></i> Form Settings
 
 The form settings are a menu in NoBox that contains format settings for the form model menu.
 

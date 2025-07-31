@@ -2,7 +2,7 @@
 icon: arrow-turn-down
 ---
 
-# Instalasi NoBox Dekstop
+# <i class="fa-regular fa-star"></i> Instalasi NoBox Dekstop
 
 ## **Cara Install dan Setting NoBox Desktop**
 

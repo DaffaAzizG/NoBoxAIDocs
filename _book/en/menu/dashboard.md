@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Dashboard
+# <i class="fa-regular fa-tachometer-alt"></i> Dashboard
 
 Summary of activities related to Nobox.Ai that can help you make decisions.
 

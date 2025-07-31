@@ -2,7 +2,7 @@
 icon: folder-arrow-down
 ---
 
-# Instalasi NoBox Web
+# <i class="fa-regular fa-download"></i> Instalasi NoBox Web
 
 Kunjungi website NoBox dan masuk menggunakan akun Anda, pastikan Anda sudah memiliki akun yang terdaftar. Pilih menu **\[Berlangganan]**, unduh installer yang sesuai dengan sistem operasi komputer Anda.
 

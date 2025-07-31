@@ -2,7 +2,7 @@
 icon: messages
 ---
 
-# Balasan Cepat
+# <i class="fa-regular fa-reply"></i> Balasan Cepat
 
 Balasan Cepat adalah salah satu menu pada Nobox.Ai yang digunakan untuk template pesan agar dapat membalas pesan lebih cepat berupa pesan teks atau media seperti gambar, GIF dan Video.
 

@@ -2,7 +2,7 @@
 icon: keyboard
 ---
 
-# Inputan Khusus
+# <i class="fa-regular fa-keyboard"></i> Inputan Khusus
 
 Inputan Khusus adalah salah satu menu pada Nobox.Ai yang memungkinkan Anda untuk menambahkan kolom khusus sesuai dengan kebutuhan Anda.
 

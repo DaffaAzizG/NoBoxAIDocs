@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Message Tags
+# <i class="fa-regular fa-tags"></i> Message Tags
 
 The Message Tag is a feature in Nobox.Ai used to categorize your message data.
 

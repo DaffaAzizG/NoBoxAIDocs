@@ -2,7 +2,7 @@
 icon: keyboard
 ---
 
-# Custom Fields
+# <i class="fa-regular fa-keyboard"></i> Custom Fields
 
 Special Input is a feature in Nobox.Ai that allows you to add custom columns according to your needs.
 

@@ -2,7 +2,7 @@
 icon: cookie
 ---
 
-# Kebijakan Cookie
+# <i class="fa-regular fa-cookie"></i> Kebijakan Cookie
 
 ## **Apa itu cookie?**
 

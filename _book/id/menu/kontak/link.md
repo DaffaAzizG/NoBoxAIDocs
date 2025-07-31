@@ -2,7 +2,7 @@
 icon: link
 ---
 
-# Link
+# <i class="fa-regular fa-link"></i> Link
 
 Link adalah salah satu menu Nobox.Ai yang digunakan untuk menampung akun-akun kontak seperti nomer WhatsApp, Email, Telegram dsb.
 

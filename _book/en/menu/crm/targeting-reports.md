@@ -2,7 +2,7 @@
 icon: bullseye-arrow
 ---
 
-# Targeting Reports
+# <i class="fa-regular fa-bullseye"></i> Targeting Reports
 
 The Target Report is a menu option in Nobox.Ai used to display reports containing an overview of the agents' performance against the targets set by the supervisor.
 

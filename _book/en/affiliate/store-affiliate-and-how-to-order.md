@@ -2,7 +2,7 @@
 icon: store
 ---
 
-# Store Affiliate and How to Order
+# <i class="fa-regular fa-share-alt"></i> Store Affiliate and How to Order
 
 ## **Store Affiliate**
 

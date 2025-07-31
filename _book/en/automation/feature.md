@@ -2,7 +2,7 @@
 icon: sliders-up
 ---
 
-# Feature
+# <i class="fa-regular fa-cogs"></i> Feature
 
 The Automation NoBox Desktop menu includes several features, such as the following:
 

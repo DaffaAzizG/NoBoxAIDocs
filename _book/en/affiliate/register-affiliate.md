@@ -2,7 +2,7 @@
 icon: id-card
 ---
 
-# Register Affiliate
+# <i class="fa-regular fa-user-plus"></i> Register Affiliate
 
 To register as an affiliate, you can follow these steps:
 

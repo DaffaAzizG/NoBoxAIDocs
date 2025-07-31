@@ -2,7 +2,7 @@
 icon: layer-group
 ---
 
-# Kategori Tugas
+# <i class="fa-regular fa-th-list"></i> Kategori Tugas
 
 Kategori Tugas merupakan salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan data tugas.
 

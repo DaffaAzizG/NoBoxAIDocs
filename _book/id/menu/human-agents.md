@@ -2,7 +2,7 @@
 icon: users
 ---
 
-# Human Agents
+# <i class="fa-regular fa-users"></i> Human Agents
 
 Human Agents di NoBox.Ai adalah pusat kontrol untuk mengelola seluruh pengguna manusia yang memiliki akses ke platform Anda. Fitur ini memungkinkan Anda untuk mengundang anggota tim, mengatur peran (roles), dan mengontrol hak akses mereka. Jika AI Agents adalah robot virtual, maka Human Agents adalah tim Anda di dunia nyata—seperti staf customer service, manajer, dan administrator—yang bertugas mengoperasikan, mengawasi, dan mengelola interaksi pelanggan.
 

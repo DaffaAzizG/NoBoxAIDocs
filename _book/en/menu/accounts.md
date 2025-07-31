@@ -2,7 +2,7 @@
 icon: circle-user
 ---
 
-# Accounts
+# <i class="fa-regular fa-user"></i> Accounts
 
 The "Account" is a menu option in Nobox.Ai used for managing account data and the Nobox Desktop tools.
 

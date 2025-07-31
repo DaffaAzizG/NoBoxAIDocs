@@ -2,7 +2,7 @@
 icon: shop-lock
 ---
 
-# Kepatuhan
+# <i class="fa-regular fa-check-circle"></i> Kepatuhan
 
 ## **Compliance at NoBox**
 

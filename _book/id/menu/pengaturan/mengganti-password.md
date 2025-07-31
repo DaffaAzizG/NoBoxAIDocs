@@ -2,7 +2,7 @@
 icon: arrows-rotate-reverse
 ---
 
-# Mengganti Password
+# <i class="fa-regular fa-key"></i> Mengganti Password
 
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/id891LhNuTU" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

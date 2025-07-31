@@ -2,7 +2,7 @@
 icon: square-xmark
 ---
 
-# Masalah : user tidak bisa login
+# <i class="fa-regular fa-exclamation-triangle"></i> Masalah : user tidak bisa login
 
 ## **Akun Yang Belum Terdaftar**
 

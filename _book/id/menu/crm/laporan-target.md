@@ -2,7 +2,7 @@
 icon: bullseye-arrow
 ---
 
-# Laporan Target
+# <i class="fa-regular fa-bullseye"></i> Laporan Target
 
 Laporan Target merupakan salah satu menu pada Nobox.Ai yang digunakan untuk menampilkan laporan berisi gambaran dari hasil kinerja agen terhadap target yang sudah ditentukan oleh supervisor.
 

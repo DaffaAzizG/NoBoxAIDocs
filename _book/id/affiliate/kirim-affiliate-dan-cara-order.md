@@ -2,7 +2,7 @@
 icon: store
 ---
 
-# Kirim Affiliate Dan Cara Order
+# <i class="fa-regular fa-share-alt"></i> Kirim Affiliate Dan Cara Order
 
 ## **Store Affiliate**
 

@@ -2,7 +2,7 @@
 icon: handshake-simple
 ---
 
-# Penawaran
+# <i class="fa-regular fa-handshake"></i> Penawaran
 
 Penawaran merupakan salah satu menu pada Nobox.Ai yang digunakan untuk melakukan manajemen penawaran, sehingga mempermudah anda dalam mengelola seluruh informasi dan aktivitas progress penjualan.
 

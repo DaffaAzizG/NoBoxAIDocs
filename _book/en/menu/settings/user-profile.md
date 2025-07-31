@@ -2,7 +2,7 @@
 icon: circle-user
 ---
 
-# User Profile
+# <i class="fa-regular fa-user-cog"></i> User Profile
 
 The User Profile is a menu in Nobox.Ai that contains personal information and is used for setting date, time, and number formats.
 

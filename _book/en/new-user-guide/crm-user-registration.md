@@ -2,7 +2,7 @@
 icon: arrow-right-to-bracket
 ---
 
-# CRM User Registration
+# <i class="fa-regular fa-ban"></i> CRM User Registration
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/0ectimbtruk/" title="01. Instalasi NoBox Desktop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -2,7 +2,7 @@
 icon: hashtag
 ---
 
-# Tag Kontak
+# <i class="fa-regular fa-tags"></i> Tag Kontak
 
 Tag Kontak adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan data kontak Anda.
 

@@ -2,7 +2,7 @@
 icon: circle-user
 ---
 
-# Profil Pengguna
+# <i class="fa-regular fa-user-cog"></i> Profil Pengguna
 
 Profil Pengguna adalah salah satu menu Nobox.Ai yang berisi informasi tentang data diri Anda dan digunakan untuk pengaturan format tanggal,waktu dan angka.
 

@@ -2,7 +2,7 @@
 icon: id-card
 ---
 
-# Registrasi Affiliate
+# <i class="fa-regular fa-user-plus"></i> Registrasi Affiliate
 
 Untuk register affiliate Anda dapat mengikuti langkah - langkah berikut :&#x20;
 

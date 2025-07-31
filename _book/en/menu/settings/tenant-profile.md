@@ -2,7 +2,7 @@
 icon: building-user
 ---
 
-# Tenant Profile
+# <i class="fa-regular fa-building"></i> Tenant Profile
 
 Company Profile is a section that contains company data information and is used for member settings, working hours, company details, etc.
 
@@ -124,6 +124,6 @@ Automated Response is a feature of Nobox.Ai used for setting message templates a
 
 <figure><img src="../../.gitbook/assets/11. Respon Otomatis.png" alt=""><figcaption></figcaption></figure>
 
-***
+---
 
 If you have any issues or difficulties related to Nobox.Ai, please contact us through [Support Ticket](https://crm.nobox.ai/clients/tickets)

@@ -2,7 +2,7 @@
 icon: boxes-packing
 ---
 
-# OLX Sites Extractor
+# <i class="fa-regular fa-store"></i> OLX Sites Extractor
 
 To support all its advantages, OLX Extractor offers a number of interesting features that you can utilize. Among the many available feature options, you can take advantage of some selected features below:
 

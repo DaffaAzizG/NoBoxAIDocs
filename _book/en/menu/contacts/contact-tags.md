@@ -2,7 +2,7 @@
 icon: hashtag
 ---
 
-# Contact Tags
+# <i class="fa-regular fa-tags"></i> Contact Tags
 
 The Contact Tag is a feature in Nobox.Ai used to categorize your contact data.
 

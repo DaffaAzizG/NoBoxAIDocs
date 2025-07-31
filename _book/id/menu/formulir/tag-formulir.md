@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Tag Formulir
+# <i class="fa-regular fa-tags"></i> Tag Formulir
 
 Tag Formulir merupakan salah satu menu pada NoBox yang digunakan untuk mengelompokkan data formulir Anda.
 

@@ -2,7 +2,7 @@
 icon: door-open
 ---
 
-# Registrasi
+# <i class="fa-regular fa-user-plus"></i> Registrasi
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/8SWFEna6-jk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

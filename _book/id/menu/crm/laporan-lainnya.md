@@ -2,7 +2,7 @@
 icon: copy
 ---
 
-# Laporan Lainnya
+# <i class="fa-regular fa-file-alt"></i> Laporan Lainnya
 
 Laporan Lainnya merupakan salah satu menu pada Nobox.Ai yang digunakan untuk menampilkan laporan pencapaian dan aktivitas.
 

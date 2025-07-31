@@ -2,7 +2,7 @@
 icon: gauge
 ---
 
-# Dasbor Kirim Pesan
+# <i class="fa-regular fa-paper-plane"></i> Dasbor Kirim Pesan
 
 Semua aktivitas yang berhubungan dengan kirim pesan yang dirangkum secara singkat dan dalam bentuk grafik yang dapat Anda klik sehingga dapat menampilkan detail data kirim pesan. Selain itu menu ini juga digunakan untuk monitoring hasil kirim pesan dari promosi.
 

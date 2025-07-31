@@ -2,7 +2,7 @@
 icon: file-chart-column
 ---
 
-# Laporan
+# <i class="fa-regular fa-chart-bar"></i> Laporan
 
 Laporan adalah salah satu menu pada Nobox.Ai yang digunakan untuk menampilkan laporan dari percakapan yang dilakukan.
 

@@ -2,7 +2,7 @@
 icon: bullseye-arrow
 ---
 
-# Target Perusahaan
+# <i class="fa-regular fa-bullseye"></i> Target Perusahaan
 
 Target Perusahaan merupakan salah satu menu pada Nobox.Ai yang digunakan untuk menentukan suatu target pemasaran dalam salah satu perusahaan disetiap bulannya.
 

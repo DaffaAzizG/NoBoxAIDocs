@@ -2,7 +2,7 @@
 icon: box-archive
 ---
 
-# Produk
+# <i class="fa-regular fa-box"></i> Produk
 
 Produk adalah salah satu menu pada NoBox.Ai yang digunakan untuk manajemen data produk yang dijual.
 

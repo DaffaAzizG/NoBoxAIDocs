@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Message Dashboard
+# <i class="fa-regular fa-comments"></i> Message Dashboard
 
 All relevant information regarding the Order menu is provided concisely, including several informational graphs about agents.
 

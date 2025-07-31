@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Form Tags
+# <i class="fa-regular fa-tags"></i> Form Tags
 
 The Form Tag is a feature in NoBox used to categorize your form data.
 

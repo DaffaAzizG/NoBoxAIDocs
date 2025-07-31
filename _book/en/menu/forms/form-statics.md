@@ -2,7 +2,7 @@
 icon: chart-simple
 ---
 
-# Form Statics
+# <i class="fa-regular fa-chart-bar"></i> Form Statics
 
 The Statistics Form is a feature used to display graphical information from the form model results. The information is based on the form process status and payment status.
 

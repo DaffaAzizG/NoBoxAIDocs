@@ -2,7 +2,7 @@
 icon: square-envelope
 ---
 
-# E-Mail
+# <i class="fa-regular fa-envelope"></i> E-Mail
 
 Email Automation memungkinkan bisnis untuk mengirimkan email secara otomatis kepada pelanggan atau calon pelanggan berdasarkan aturan atau pemicu tertentu. Sistem ini memungkinkan pengiriman pesan yang relevan dan tepat waktu tanpa perlu intervensi manual, sehingga meningkatkan efisiensi dan efektivitas komunikasi bisnis Anda.
 

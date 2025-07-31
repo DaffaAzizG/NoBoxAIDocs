@@ -2,7 +2,7 @@
 icon: comments
 ---
 
-# Broadcast Messages
+# <i class="fa-regular fa-paper-plane"></i> Broadcast Messages
 
 The "Send Message" feature in Nobox.Ai is used for monitoring the results of message sending from all promotional data. It allows you to track messages that are still queued, in process, failed, or successfully sent.
 

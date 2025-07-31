@@ -2,7 +2,7 @@
 icon: envelopes-bulk
 ---
 
-# Anti-Spam Policy
+# <i class="fa-regular fa-ban"></i> Anti-Spam Policy
 
 ## **Anti-Spam Policy**
 

@@ -2,7 +2,7 @@
 icon: address-card
 ---
 
-# Update Profile
+# <i class="fa-regular fa-user-edit"></i> Update Profile
 
 ## How to Update User Profile and Company Details
 

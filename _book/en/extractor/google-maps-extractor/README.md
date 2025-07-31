@@ -2,7 +2,7 @@
 icon: map-location-dot
 ---
 
-# Google Maps Extractor
+# <i class="fa-regular fa-map-marked-alt"></i> Google Maps Extractor
 
 Google Maps Extractor offers several attractive features that you can take advantage of to support all its benefits. Among the many available options, here are a few key features you can utilize:
 

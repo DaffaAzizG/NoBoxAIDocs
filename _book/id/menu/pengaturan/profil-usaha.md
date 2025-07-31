@@ -2,7 +2,7 @@
 icon: building-user
 ---
 
-# Profil Usaha
+# <i class="fa-regular fa-building"></i> Profil Usaha
 
 Profil Usaha  adalah salah satu menu yang berisi informasi data perusahaan dan digunakan untuk pengaturan anggota, jam kerja, perusahaan dsb.
 

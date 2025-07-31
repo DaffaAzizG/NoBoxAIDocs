@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Tag Promosi
+# <i class="fa-regular fa-tags"></i> Tag Promosi
 
 Tag Promosi adalah salah satu menu pada Nobox.Ai yang digunakan untuk mengelompokkan data promosi Anda.
 

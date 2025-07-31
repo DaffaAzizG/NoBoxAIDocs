@@ -2,7 +2,7 @@
 icon: fa-regular fa-envelope
 ---
 
-# Pesan
+# <i class="fa-regular fa-envelope"></i> Pesan
 
 <div class="custom-card-container">
     <a href="./dasbor-pesan.md" class="custom-card">

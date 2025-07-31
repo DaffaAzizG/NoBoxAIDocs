@@ -2,7 +2,7 @@
 icon: file-chart-pie
 ---
 
-# General Reports
+# <i class="fa-regular fa-chart-pie"></i> General Reports
 
 The General Report is a feature in Nobox.Ai used to display general reports related to information from the CRM menu.
 

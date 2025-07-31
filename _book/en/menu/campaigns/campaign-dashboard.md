@@ -2,7 +2,7 @@
 icon: gauge-min
 ---
 
-# Campaign Dashboard
+# <i class="fa-regular fa-bullhorn"></i> Campaign Dashboard
 
 Summary of promotional activities information to facilitate decision-making.
 

@@ -2,7 +2,7 @@
 icon: square-poll-horizontal
 ---
 
-# Hasil Formulir
+# <i class="fa-regular fa-check-square"></i> Hasil Formulir
 
 Hasil Formulir merupakan salah satu menu pada NoBox digunakan untuk manajemen data hasil formulir.
 

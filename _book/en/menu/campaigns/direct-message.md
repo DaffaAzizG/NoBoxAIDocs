@@ -2,7 +2,7 @@
 icon: location-arrow
 ---
 
-# Direct Message
+# <i class="fa-regular fa-paper-plane"></i> Direct Message
 
 The Direct Message feature is part of Nobox.Ai, used for sending messages directly to one or more contacts.
 

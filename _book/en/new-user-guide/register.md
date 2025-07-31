@@ -2,7 +2,7 @@
 icon: door-open
 ---
 
-# Register
+# <i class="fa-regular fa-user-plus"></i> Register
 
 <iframe width="742" height="418" src="https://www.youtube.com/embed/8SWFEna6-jk/" title="01. Instalasi NoBox Desktop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

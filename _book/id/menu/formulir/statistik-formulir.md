@@ -2,7 +2,7 @@
 icon: chart-simple
 ---
 
-# Statistik Formulir
+# <i class="fa-regular fa-chart-bar"></i> Statistik Formulir
 
 Statistik Formulir adalah salah satu fitur yang digunakan untuk menampilkan grafik informasi dari hasil model formulir. Dari informasi hasil informasi berdasarkan status proses formulir dan status pembayaran.
 

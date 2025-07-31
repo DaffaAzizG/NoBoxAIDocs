@@ -2,7 +2,7 @@
 icon: tags
 ---
 
-# Campaign Tags
+# <i class="fa-regular fa-tags"></i> Campaign Tags
 
 Promotional Tags is a feature in Nobox.Ai that helps organize your promotional data.
 
